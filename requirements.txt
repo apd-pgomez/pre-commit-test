@@ -1,0 +1,7 @@
+altair==5.5.0
+black==25.9.0
+pre-commit==4.5.0
+pyenchant==3.2.2
+pylint==3.4.0
+python-dotenv==1.2.1
+pandas==2.2.3
